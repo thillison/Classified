@@ -1,0 +1,1 @@
+#standard Deviation, variance, covariance, beta, rolling beta
