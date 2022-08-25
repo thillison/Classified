@@ -1,5 +1,8 @@
 # Equity Analysis Tool Application & Analysis Report
 
+# Project Executive Summary:
+To provide our clients with an investment recommendation that will reduce the overall risk of their portfolio while enhancing their cumulative returns
+
 # Installation
 1. Download & Install Anaconda(https://www.anaconda.com) & Jupyter Lab (https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 2. Install libraries: Execute 'conda activate dev' & 'pip show' in CLI or Terminal to see libraries, and use 'pip install' for the libraries not included
@@ -34,3 +37,6 @@
 1. After completion of the Equity Analysis Tool Application, you will navigate to the StockAnalysisReport.ipynb under the ClientConfidentials Folder
 2. Launch Jupyter Lab (Enter in Windows CLI or Mac Terminal: 'Jupyter Lab' Command) *This will open a web page on your localhost machine with the notebook
 3. Step through each of the Jupyter Notebook cells following the instructionto review the your Client Ticker & ETF Risk and Return Analysis Report
+
+# Analysis Report Results:
+    Add Images
