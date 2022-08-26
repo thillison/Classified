@@ -1,6 +1,6 @@
 # Equity Analysis Tool Application & Analysis Report
 
-## Project Executive Summary
+## Project Executive Summary (Visit AppToAnalysisUpdate Branch for the Latest and Greatest Code)
 
 To provide our clients with an investment recommendation that will reduce the overall risk of their portfolio while enhancing their cumulative returns.
 
