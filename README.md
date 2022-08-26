@@ -1,6 +1,6 @@
 # Equity Analysis Tool Application & Analysis Report
 
-## Project Executive Summary (Visit AppToAnalysisUpdate Branch for the Latest and Greatest Code)
+## Project Executive Summary 
 
 To provide our clients with an investment recommendation that will reduce the overall risk of their portfolio while enhancing their cumulative returns.
 
@@ -62,6 +62,8 @@ From here you will be able to create your API Keys.
 ---
 
 ## Usage
+
+Visit AppToAnalysisUpdate Branch for the Latest and Greatest Code
 
 Configure your personal .env file as below (This file will be hidden so you may have to enable "show hidden files" on your machine to view it).
 ```
